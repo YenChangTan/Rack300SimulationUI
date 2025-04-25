@@ -245,7 +245,7 @@ namespace Rack300SimulationUI
                     _iTcpControl.Rly4OnOff(true);
                     break;
                 case "Rly4Of":
-                    _iTcpControl.Rly3OnOff(false);
+                    _iTcpControl.Rly4OnOff(false);
                     break;
             }
         }
