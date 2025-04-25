@@ -252,27 +252,36 @@ namespace Rack300SimulationUI
 
         private byte[] HandleRd_SenOrRd_Err(byte[] rcvByte)
         {
-            string command = Encoding.ASCII.GetString(rcvByte, 2, 6);
-            byte[] dataBytes = new byte[48];
-            byte[] withoutCRC = new byte[104];
-            byte[] toSend = new byte[106];
-            withoutCRC[0] = 1;
-            withoutCRC[1] = 0;
-            Encoding.ASCII.GetBytes(command).CopyTo(withoutCRC, 2);
-            switch (command)
+            try
             {
-                case "Rd_Sen":
-                    dataBytes = _iTcpControl.Rd_Sen();
-                    break;
-                case "Rd_Err":
-                    dataBytes = _iTcpControl.Rd_Err();
-                    break;
-            }
-            dataBytes.CopyTo(withoutCRC, 8);
-            withoutCRC.CopyTo(toSend, 0);
-            CRCCal(withoutCRC).CopyTo(toSend, 104);
+                string command = Encoding.ASCII.GetString(rcvByte, 2, 6);
+                byte[] dataBytes = new byte[48];
+                byte[] withoutCRC = new byte[104];
+                byte[] toSend = new byte[106];
+                withoutCRC[0] = 1;
+                withoutCRC[1] = 0;
+                Encoding.ASCII.GetBytes(command).CopyTo(withoutCRC, 2);
+                switch (command)
+                {
+                    case "Rd_Sen":
+                        dataBytes = _iTcpControl.Rd_Sen();
+                        break;
+                    case "Rd_Err":
+                        dataBytes = _iTcpControl.Rd_Err();
+                        break;
+                }
+                
+                dataBytes.CopyTo(withoutCRC, 8);
+                withoutCRC.CopyTo(toSend, 0);
+                CRCCal(withoutCRC).CopyTo(toSend, 104);
 
-            return toSend;
+                return toSend;
+            }
+            catch
+            {
+                Debug.WriteLine("Error here");
+                throw new Exception();
+            }
         }
     }
 }

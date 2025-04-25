@@ -7,14 +7,6 @@
       "RelativeMoniker": "D:0:0:{77DABB12-EA44-4CAD-A0AC-3BAD8A3EDCB4}|Rack300SimulationUI\\Rack300SimulationUI.csproj|solutionrelative:rack300simulationui\\rack300simulationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77DABB12-EA44-4CAD-A0AC-3BAD8A3EDCB4}|Rack300SimulationUI\\Rack300SimulationUI.csproj|C:\\Users\\SiP-YCTan\\OneDrive - SIP Technology (M) Sdn Bhd\\Documents\\GitHub\\Rack300SimulationUI\\rack300simulationui\\model\\slot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77DABB12-EA44-4CAD-A0AC-3BAD8A3EDCB4}|Rack300SimulationUI\\Rack300SimulationUI.csproj|solutionrelative:rack300simulationui\\model\\slot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77DABB12-EA44-4CAD-A0AC-3BAD8A3EDCB4}|Rack300SimulationUI\\Rack300SimulationUI.csproj|c:\\users\\sip-yctan\\onedrive - sip technology (m) sdn bhd\\documents\\github\\rack300simulationui\\rack300simulationui\\rmvtimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77DABB12-EA44-4CAD-A0AC-3BAD8A3EDCB4}|Rack300SimulationUI\\Rack300SimulationUI.csproj|solutionrelative:rack300simulationui\\rmvtimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{77DABB12-EA44-4CAD-A0AC-3BAD8A3EDCB4}|Rack300SimulationUI\\Rack300SimulationUI.csproj|C:\\Users\\SiP-YCTan\\OneDrive - SIP Technology (M) Sdn Bhd\\Documents\\GitHub\\Rack300SimulationUI\\rack300simulationui\\tcpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77DABB12-EA44-4CAD-A0AC-3BAD8A3EDCB4}|Rack300SimulationUI\\Rack300SimulationUI.csproj|solutionrelative:rack300simulationui\\tcpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,6 +19,14 @@
       "RelativeMoniker": "D:0:0:{77DABB12-EA44-4CAD-A0AC-3BAD8A3EDCB4}|Rack300SimulationUI\\Rack300SimulationUI.csproj|solutionrelative:rack300simulationui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{77DABB12-EA44-4CAD-A0AC-3BAD8A3EDCB4}|Rack300SimulationUI\\Rack300SimulationUI.csproj|C:\\Users\\SiP-YCTan\\OneDrive - SIP Technology (M) Sdn Bhd\\Documents\\GitHub\\Rack300SimulationUI\\rack300simulationui\\model\\slot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DABB12-EA44-4CAD-A0AC-3BAD8A3EDCB4}|Rack300SimulationUI\\Rack300SimulationUI.csproj|solutionrelative:rack300simulationui\\model\\slot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DABB12-EA44-4CAD-A0AC-3BAD8A3EDCB4}|Rack300SimulationUI\\Rack300SimulationUI.csproj|C:\\Users\\SiP-YCTan\\OneDrive - SIP Technology (M) Sdn Bhd\\Documents\\GitHub\\Rack300SimulationUI\\rack300simulationui\\rmvtimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DABB12-EA44-4CAD-A0AC-3BAD8A3EDCB4}|Rack300SimulationUI\\Rack300SimulationUI.csproj|solutionrelative:rack300simulationui\\rmvtimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{77DABB12-EA44-4CAD-A0AC-3BAD8A3EDCB4}|Rack300SimulationUI\\Rack300SimulationUI.csproj|C:\\Users\\SiP-YCTan\\OneDrive - SIP Technology (M) Sdn Bhd\\Documents\\GitHub\\Rack300SimulationUI\\rack300simulationui\\model\\sidelight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77DABB12-EA44-4CAD-A0AC-3BAD8A3EDCB4}|Rack300SimulationUI\\Rack300SimulationUI.csproj|solutionrelative:rack300simulationui\\model\\sidelight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,7 +35,7 @@
       "RelativeMoniker": "D:0:0:{77DABB12-EA44-4CAD-A0AC-3BAD8A3EDCB4}|Rack300SimulationUI\\Rack300SimulationUI.csproj|solutionrelative:rack300simulationui\\converter\\zeroindexedtooneindexed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77DABB12-EA44-4CAD-A0AC-3BAD8A3EDCB4}|Rack300SimulationUI\\Rack300SimulationUI.csproj|c:\\users\\sip-yctan\\onedrive - sip technology (m) sdn bhd\\documents\\github\\rack300simulationui\\rack300simulationui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{77DABB12-EA44-4CAD-A0AC-3BAD8A3EDCB4}|Rack300SimulationUI\\Rack300SimulationUI.csproj|C:\\Users\\SiP-YCTan\\OneDrive - SIP Technology (M) Sdn Bhd\\Documents\\GitHub\\Rack300SimulationUI\\rack300simulationui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{77DABB12-EA44-4CAD-A0AC-3BAD8A3EDCB4}|Rack300SimulationUI\\Rack300SimulationUI.csproj|solutionrelative:rack300simulationui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
@@ -78,17 +78,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 333,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "TCPService.cs",
               "DocumentMoniker": "C:\\Users\\SiP-YCTan\\OneDrive - SIP Technology (M) Sdn Bhd\\Documents\\GitHub\\Rack300SimulationUI\\Rack300SimulationUI\\TCPService.cs",
               "RelativeDocumentMoniker": "Rack300SimulationUI\\TCPService.cs",
               "ToolTip": "C:\\Users\\SiP-YCTan\\OneDrive - SIP Technology (M) Sdn Bhd\\Documents\\GitHub\\Rack300SimulationUI\\Rack300SimulationUI\\TCPService.cs",
               "RelativeToolTip": "Rack300SimulationUI\\TCPService.cs",
-              "ViewState": "AQIAALEAAAAAAAAAAADwv74AAABBAAAA",
+              "ViewState": "AQIAAP0AAAAAAAAAAAAUwAoBAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-23T07:54:39.014Z",
               "IsPinned": true,
@@ -97,32 +97,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RmvTimer.cs",
-              "DocumentMoniker": "C:\\Users\\SiP-YCTan\\OneDrive - SIP Technology (M) Sdn Bhd\\Documents\\GitHub\\Rack300SimulationUI\\Rack300SimulationUI\\RmvTimer.cs",
-              "RelativeDocumentMoniker": "Rack300SimulationUI\\RmvTimer.cs",
-              "ToolTip": "C:\\Users\\SiP-YCTan\\OneDrive - SIP Technology (M) Sdn Bhd\\Documents\\GitHub\\Rack300SimulationUI\\Rack300SimulationUI\\RmvTimer.cs",
-              "RelativeToolTip": "Rack300SimulationUI\\RmvTimer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T01:03:38.375Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\SiP-YCTan\\OneDrive - SIP Technology (M) Sdn Bhd\\Documents\\GitHub\\Rack300SimulationUI\\Rack300SimulationUI\\App.config",
-              "RelativeDocumentMoniker": "Rack300SimulationUI\\App.config",
-              "ToolTip": "C:\\Users\\SiP-YCTan\\OneDrive - SIP Technology (M) Sdn Bhd\\Documents\\GitHub\\Rack300SimulationUI\\Rack300SimulationUI\\App.config",
-              "RelativeToolTip": "Rack300SimulationUI\\App.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-04-25T00:44:13.637Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -144,10 +118,34 @@
               "RelativeDocumentMoniker": "Rack300SimulationUI\\Rack300SimulationViewModel.cs",
               "ToolTip": "C:\\Users\\SiP-YCTan\\OneDrive - SIP Technology (M) Sdn Bhd\\Documents\\GitHub\\Rack300SimulationUI\\Rack300SimulationUI\\Rack300SimulationViewModel.cs",
               "RelativeToolTip": "Rack300SimulationUI\\Rack300SimulationViewModel.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAIsAAAAtAAAA",
+              "ViewState": "AQIAAAcBAAAAAAAAAAAmwBsBAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-21T03:08:59.981Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RmvTimer.cs",
+              "DocumentMoniker": "C:\\Users\\SiP-YCTan\\OneDrive - SIP Technology (M) Sdn Bhd\\Documents\\GitHub\\Rack300SimulationUI\\Rack300SimulationUI\\RmvTimer.cs",
+              "RelativeDocumentMoniker": "Rack300SimulationUI\\RmvTimer.cs",
+              "ToolTip": "C:\\Users\\SiP-YCTan\\OneDrive - SIP Technology (M) Sdn Bhd\\Documents\\GitHub\\Rack300SimulationUI\\Rack300SimulationUI\\RmvTimer.cs",
+              "RelativeToolTip": "Rack300SimulationUI\\RmvTimer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T01:03:38.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\SiP-YCTan\\OneDrive - SIP Technology (M) Sdn Bhd\\Documents\\GitHub\\Rack300SimulationUI\\Rack300SimulationUI\\App.config",
+              "RelativeDocumentMoniker": "Rack300SimulationUI\\App.config",
+              "ToolTip": "C:\\Users\\SiP-YCTan\\OneDrive - SIP Technology (M) Sdn Bhd\\Documents\\GitHub\\Rack300SimulationUI\\Rack300SimulationUI\\App.config",
+              "RelativeToolTip": "Rack300SimulationUI\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-25T00:44:13.637Z"
             },
             {
               "$type": "Document",
@@ -207,12 +205,11 @@
               "RelativeToolTip": "Rack300SimulationUI\\Model\\SideLight.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T06:59:05.313Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T06:59:05.313Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\SiP-YCTan\\OneDrive - SIP Technology (M) Sdn Bhd\\Documents\\GitHub\\Rack300SimulationUI\\Rack300SimulationUI\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Rack300SimulationUI\\MainWindow.xaml",
@@ -224,13 +221,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "ITCPControl.cs",
               "DocumentMoniker": "C:\\Users\\SiP-YCTan\\OneDrive - SIP Technology (M) Sdn Bhd\\Documents\\GitHub\\Rack300SimulationUI\\Rack300SimulationUI\\ITCPControl.cs",
               "RelativeDocumentMoniker": "Rack300SimulationUI\\ITCPControl.cs",
               "ToolTip": "C:\\Users\\SiP-YCTan\\OneDrive - SIP Technology (M) Sdn Bhd\\Documents\\GitHub\\Rack300SimulationUI\\Rack300SimulationUI\\ITCPControl.cs",
               "RelativeToolTip": "Rack300SimulationUI\\ITCPControl.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAwwBgAAAAsAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAoAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-23T08:14:21.947Z",
               "EditorCaption": ""
@@ -245,8 +242,7 @@
               "RelativeToolTip": "Rack300SimulationUI\\Converter\\ZeroIndexedToOneIndexed.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAgwB4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T06:33:48.425Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T06:33:48.425Z"
             },
             {
               "$type": "Document",
@@ -281,12 +277,11 @@
               "ToolTip": "C:\\Users\\SiP-YCTan\\OneDrive - SIP Technology (M) Sdn Bhd\\Documents\\GitHub\\Rack300SimulationUI\\Rack300SimulationUI\\App.xaml",
               "RelativeToolTip": "Rack300SimulationUI\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-21T05:42:56.342Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T05:42:56.342Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Slot.cs",
               "DocumentMoniker": "C:\\Users\\SiP-YCTan\\OneDrive - SIP Technology (M) Sdn Bhd\\Documents\\GitHub\\Rack300SimulationUI\\Rack300SimulationUI\\Model\\Slot.cs",
               "RelativeDocumentMoniker": "Rack300SimulationUI\\Model\\Slot.cs",
@@ -294,8 +289,7 @@
               "RelativeToolTip": "Rack300SimulationUI\\Model\\Slot.cs",
               "ViewState": "AQIAAD0AAAAAAAAAAAAcwFAAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T03:04:22.27Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T03:04:22.27Z"
             }
           ]
         },

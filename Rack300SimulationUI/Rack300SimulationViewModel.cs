@@ -233,7 +233,7 @@ namespace Rack300SimulationUI
                                 if (AllRows[SlotBase + k].IsError)
                                 {
                                     IsError = true;
-                                    SensorData[i * 8 - 1] |= 0b10000000;
+                                    SensorData[(i+1) * 8 - 1] |= 0b10000000;
                                     break;
                                 };
                             }
@@ -281,7 +281,7 @@ namespace Rack300SimulationUI
                                 if (AllRows[SlotBase + k].IsError)
                                 {
                                     IsError = true;
-                                    SensorData[i * 8 - 1] |= 0b10000000;
+                                    SensorData[(i+1) * 8 - 1] |= 0b10000000;
                                     break;
                                 };
                             }
